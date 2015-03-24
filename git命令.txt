@@ -1,2 +1,8 @@
-1.git clone https://github.com/youcanyouupsb/ZXJC   
+1.git clone https://github.com/youcanyouupsb/ZXJC 
+2.git add git命令.txt
+3.git status
+4.git commit -m "命令说明"
+5.git push origin master
+
+  
 
